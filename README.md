@@ -2,18 +2,13 @@
 
 ## 🌐 Links
 
-- 🔗 **Introduction**: [Google Drive](https://drive.google.com/file/d/1bAeQZVXL_CJKpWsTTtn89H1ZoE_ZK2fK/view?usp=sharing)
-
-  https://drive.google.com/file/d/1bAeQZVXL_CJKpWsTTtn89H1ZoE_ZK2fK/view?usp=sharing
+- 🔗 **Introduction**: https://drive.google.com/file/d/1bAeQZVXL_CJKpWsTTtn89H1ZoE_ZK2fK/view?usp=sharing
   
-- 🎨 **Figma**: [Prototype](https://www.figma.com/proto/JSbkBrYCZea1QBmePMs452/PetHome?node-id=0-1&t=x3KcITVjWclnoIst-1)
-  https://www.figma.com/proto/JSbkBrYCZea1QBmePMs452/PetHome?node-id=0-1&t=x3KcITVjWclnoIst-1
+- 🎨 **Figma**: https://www.figma.com/proto/JSbkBrYCZea1QBmePMs452/PetHome?node-id=0-1&t=x3KcITVjWclnoIst-1
   
-- 🔄 **Process Flows**: [Camunda Modeler](https://modeler.camunda.io/share/b406af2f-0ea9-401b-8405-93ee37a14edb)
-  https://modeler.camunda.io/share/b406af2f-0ea9-401b-8405-93ee37a14edb
+- 🔄 **Process Flows**: https://modeler.camunda.io/share/b406af2f-0ea9-401b-8405-93ee37a14edb
   
-- 📁 **Other Sources**: [Folder on Google Drive](https://drive.google.com/drive/folders/1n8pu4xyT_QiLKlY7e7Ne4_4Hr5PyWvWW?usp=sharing)
-  Folder on Google Drive](https://drive.google.com/drive/folders/1n8pu4xyT_QiLKlY7e7Ne4_4Hr5PyWvWW?usp=sharing
+- 📁 **Other Sources**: https://drive.google.com/drive/folders/1n8pu4xyT_QiLKlY7e7Ne4_4Hr5PyWvWW?usp=sharing
 
 ---
 
