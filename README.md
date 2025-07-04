@@ -30,7 +30,15 @@
 - Xây dựng các tài liệu:
     - Context Diagram mô tả mối liên kết giữa hệ thống PetHome và các đối tượng.
     - Danh sách tính năng MVP xác định các chức năng cốt lõi cần có trong phiên bản đầu tiên, đảm bảo giải quyết các vấn đề chính của người dùng.
-    - Feature List chi tiết hoá từng tính năng trong hệ thống.
+    - Feature List chi tiết hoá từng tính năng trong hệ thống như:
+        - Tạo và quản lý hồ sơ thú cưng
+        - Đặt, sửa, hủy lịch hẹn dịch vụ
+        - Theo dõi lịch sử chăm sóc
+        - Nhận thông báo nhắc lịch
+        - Mua sắm sản phẩm phụ kiện
+        - Liên hệ & phản hồi dịch vụ
+        - Đăng nhập, xác thực bằng OTP
+        - Thanh toán và check-in bằng mã QR
     - Business Rules định nghĩa các quy tắc hoạt động cho từng chức năng.
 - Thiết kế BPMN End-to-End cho các quy trình chính:
     - Đặt lịch dịch vụ
