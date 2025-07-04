@@ -3,9 +3,16 @@
 ## 🌐 Links
 
 - 🔗 **Introduction**: [Google Drive](https://drive.google.com/file/d/1bAeQZVXL_CJKpWsTTtn89H1ZoE_ZK2fK/view?usp=sharing)
+  https://drive.google.com/file/d/1bAeQZVXL_CJKpWsTTtn89H1ZoE_ZK2fK/view?usp=sharing
+  
 - 🎨 **Figma**: [Prototype](https://www.figma.com/proto/JSbkBrYCZea1QBmePMs452/PetHome?node-id=0-1&t=x3KcITVjWclnoIst-1)
+  https://www.figma.com/proto/JSbkBrYCZea1QBmePMs452/PetHome?node-id=0-1&t=x3KcITVjWclnoIst-1
+  
 - 🔄 **Process Flows**: [Camunda Modeler](https://modeler.camunda.io/share/b406af2f-0ea9-401b-8405-93ee37a14edb)
+  https://modeler.camunda.io/share/b406af2f-0ea9-401b-8405-93ee37a14edb
+  
 - 📁 **Other Sources**: [Folder on Google Drive](https://drive.google.com/drive/folders/1n8pu4xyT_QiLKlY7e7Ne4_4Hr5PyWvWW?usp=sharing)
+  Folder on Google Drive](https://drive.google.com/drive/folders/1n8pu4xyT_QiLKlY7e7Ne4_4Hr5PyWvWW?usp=sharing
 
 ---
 
@@ -34,14 +41,14 @@ Việc tích hợp đa dạng dịch vụ như khám bệnh, làm đẹp, tiêm 
   - **Context Diagram** mô tả mối liên kết giữa hệ thống PetHome và các đối tượng.
   - **MVP Feature List** xác định các chức năng cốt lõi cho phiên bản đầu tiên.
   - **Feature List** chi tiết từng tính năng:
-    - 🐕 Tạo và quản lý hồ sơ thú cưng
-    - 📅 Đặt, sửa, hủy lịch hẹn dịch vụ
-    - 📖 Theo dõi lịch sử chăm sóc
-    - 🔔 Nhận thông báo nhắc lịch
-    - 🛍️ Mua sắm sản phẩm phụ kiện
-    - 💬 Liên hệ & phản hồi dịch vụ
-    - 🔐 Đăng nhập, xác thực bằng OTP
-    - 💳 Thanh toán và check-in bằng mã QR
+    - Tạo và quản lý hồ sơ thú cưng
+    - Đặt, sửa, hủy lịch hẹn dịch vụ
+    - Theo dõi lịch sử chăm sóc
+    - Nhận thông báo nhắc lịch
+    - Mua sắm sản phẩm phụ kiện
+    - Liên hệ & phản hồi dịch vụ
+    - Đăng nhập, xác thực bằng OTP
+    - Thanh toán và check-in bằng mã QR
   - **Business Rules** định nghĩa quy tắc hoạt động cho từng chức năng.
 - 🔄 Thiết kế **BPMN End-to-End** cho các quy trình:
   - Đặt lịch dịch vụ
@@ -49,5 +56,5 @@ Việc tích hợp đa dạng dịch vụ như khám bệnh, làm đẹp, tiêm 
   - Quản lý hồ sơ thú cưng
   - Mua hàng trong app
   - Thanh toán & check-in tại cơ sở
-- 🧬 Xây dựng **ERD** thể hiện mối quan hệ giữa các thực thể (thú cưng, chủ nuôi, nhân viên, lịch hẹn, phản hồi,...)
+- 🔗 Xây dựng **ERD** thể hiện mối quan hệ giữa các thực thể (thú cưng, chủ nuôi, nhân viên, lịch hẹn, phản hồi,...)
 - 🎨 Thiết kế **Prototype** ứng dụng di động bằng Figma, mô phỏng luồng người dùng và trải nghiệm sử dụng.
