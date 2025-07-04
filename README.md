@@ -37,20 +37,20 @@ Việc tích hợp đa dạng dịch vụ như khám bệnh, làm đẹp, tiêm 
   - **Context Diagram** mô tả mối liên kết giữa hệ thống PetHome và các đối tượng.
   - **MVP Feature List** xác định các chức năng cốt lõi cho phiên bản đầu tiên.
   - **Feature List** chi tiết từng tính năng:
-    - Tạo và quản lý hồ sơ thú cưng
-    - Đặt, sửa, hủy lịch hẹn dịch vụ
-    - Theo dõi lịch sử chăm sóc
-    - Nhận thông báo nhắc lịch
-    - Mua sắm sản phẩm phụ kiện
-    - Liên hệ & phản hồi dịch vụ
-    - Đăng nhập, xác thực bằng OTP
-    - Thanh toán và check-in bằng mã QR
+    - Tạo và quản lý hồ sơ thú cưng.
+    - Đặt, sửa, hủy lịch hẹn dịch vụ.
+    - Theo dõi lịch sử chăm sóc.
+    - Nhận thông báo nhắc lịch.
+    - Mua sắm sản phẩm phụ kiện.
+    - Liên hệ & phản hồi dịch vụ.
+    - Đăng nhập, xác thực bằng OTP.
+    - Thanh toán và check-in bằng mã QR.
   - **Business Rules** định nghĩa quy tắc hoạt động cho từng chức năng.
 - Thiết kế **BPMN End-to-End** cho các quy trình:
-  - Đặt lịch dịch vụ
-  - Đăng ký/Đăng nhập và xác thực OTP
-  - Quản lý hồ sơ thú cưng
-  - Mua hàng trong app
-  - Thanh toán & check-in tại cơ sở
-- Xây dựng **ERD** thể hiện mối quan hệ giữa các thực thể (thú cưng, chủ nuôi, nhân viên, lịch hẹn, phản hồi,...)
+  - Đặt lịch dịch vụ.
+  - Đăng ký/Đăng nhập và xác thực OTP.
+  - Quản lý hồ sơ thú cưng.
+  - Mua hàng trong app.
+  - Thanh toán & check-in tại cơ sở.
+- Xây dựng **ERD** thể hiện mối quan hệ giữa các thực thể (thú cưng, chủ nuôi, nhân viên, lịch hẹn, phản hồi,...).
 - Thiết kế **Prototype** ứng dụng di động bằng Figma, mô phỏng luồng người dùng và trải nghiệm sử dụng.
